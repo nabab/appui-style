@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1\n"
+"Report-Msgid-Bugs-To: info@bbn.so\n"
+"last-Translator: BBN Solutions <support@bbn.solutions>\n"
+"Language-Team: FR <FR@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-02-04 15:17+0100\n"
+"POT-Revision-Date: 2020-02-04 15:17+0100\n"
+"Language: fr\n"
+"X-Domain: appui-styles5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-styles/src/components/test/test.js
+msgid "Pref."
+msgstr "teeeeest"
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "testattt"
+msgstr "dfsadfa"
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "due"
+msgstr "deu"
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "uno"
+msgstr "ciao"
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "tre"
+msgstr "test"
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "quattro"
+msgstr "\si"
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "cinque"
+msgstr "poiu"
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "testgattt"
+msgstr "rewrqerqerq\\"
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "duge"
+msgstr "be"
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "ugno"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "treg"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "quagttro"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "cignque"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-styles/src/mvc/html/bbn-vue.php
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-styles/src/mvc/html/bbn-vue.php
+msgid "Kendo free"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-styles/src/mvc/html/bbn-vue.php
+msgid "State"
+msgstr "État"
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-styles/src/mvc/html/bbn-vue.php
+msgid "Priority"
+msgstr "Priorité"
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-styles/src/mvc/html/bbn-vue.php
+msgid "Issues"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-styles/src/mvc/js/bbn-vue.js
+msgid "Saved"
+msgstr "Sauvegardé"
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-styles/src/mvc/js/bbn-vue.js
+msgid "Something went wrong"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-styles/src/mvc/public/bbn-vue.php
+msgid "Components' state"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-styles/src/mvc/public/fields.php
+msgid "Fields"
+msgstr ""

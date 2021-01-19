@@ -1,0 +1,19 @@
+{
+  "name": "bbn/appui-style",
+  "description": "Showcase of all the appui CSS classes",
+  "keywords": ["stylesheet","style","css","less","appui"],
+  "homepage": "https://github.com/nabab/appui-style",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Thomas Nabet",
+      "email": "thomas.nabet@gmail.com",
+      "homepage": "https://bbn.solutions",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "bbn/bbn": "dev-master"
+  }
+}

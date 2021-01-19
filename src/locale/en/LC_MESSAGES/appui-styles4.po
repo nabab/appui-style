@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1\n"
+"Report-Msgid-Bugs-To: info@bbn.so\n"
+"last-Translator: BBN Solutions <support@bbn.solutions>\n"
+"Language-Team: EN <EN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-10-02 16:38+0200\n"
+"POT-Revision-Date: 2019-10-02 16:38+0200\n"
+"Language: en\n"
+"X-Domain: appui-styles4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: /home/appui/vendor/bbn/appui-styles/src/components/test/test.js
+msgid "Pref."
+msgstr "Pref."
+
+#: /home/appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "testattt"
+msgstr "testattt"
+
+#: /home/appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "due"
+msgstr "due"
+
+#: /home/appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "uno"
+msgstr "uno"
+
+#: /home/appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "tre"
+msgstr "tre"
+
+#: /home/appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "quattro"
+msgstr "quattro"
+
+#: /home/appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "cinque"
+msgstr "cinque"
+
+#: /home/appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "testgattt"
+msgstr "testgattt"
+
+#: /home/appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "duge"
+msgstr "duge"
+
+#: /home/appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "ugno"
+msgstr "ugno"
+
+#: /home/appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "treg"
+msgstr "treg"
+
+#: /home/appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "quagttro"
+msgstr "quagttro"
+
+#: /home/appui/vendor/bbn/appui-styles/src/components/test/test.php
+msgid "cignque"
+msgstr "cignque"
+
+#: /home/appui/vendor/bbn/appui-styles/src/mvc/html/bbn-vue.php
+msgid "Save"
+msgstr "Save"
+
+#: /home/appui/vendor/bbn/appui-styles/src/mvc/html/bbn-vue.php
+msgid "Kendo free"
+msgstr "Kendo free"
+
+#: /home/appui/vendor/bbn/appui-styles/src/mvc/html/bbn-vue.php
+msgid "State"
+msgstr "State"
+
+#: /home/appui/vendor/bbn/appui-styles/src/mvc/html/bbn-vue.php
+msgid "Priority"
+msgstr "Priority"
+
+#: /home/appui/vendor/bbn/appui-styles/src/mvc/html/bbn-vue.php
+msgid "Issues"
+msgstr "Issues"
+
+#: /home/appui/vendor/bbn/appui-styles/src/mvc/js/bbn-vue.js
+msgid "Saved"
+msgstr "Saved"
+
+#: /home/appui/vendor/bbn/appui-styles/src/mvc/js/bbn-vue.js
+msgid "Something went wrong"
+msgstr "Something went wrong"
+
+#: /home/appui/vendor/bbn/appui-styles/src/mvc/public/bbn-vue.php
+msgid "Components' state"
+msgstr "Components' state"
+
+#: /home/appui/vendor/bbn/appui-styles/src/mvc/public/fields.php
+msgid "Fields"
+msgstr "Fields"

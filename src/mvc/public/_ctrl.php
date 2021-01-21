@@ -1,3 +1,3 @@
 <?php
 /** @var $ctrl \bbn\mvc\controller */
-$ctrl->data['root'] = $ctrl->plugin_url('appui-styles').'/';
+$ctrl->data['root'] = $ctrl->plugin_url('appui-style').'/';

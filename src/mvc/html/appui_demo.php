@@ -1,4 +1,4 @@
-<div class="bbn-overlay appui-styles-demo-container">
+<div class="bbn-overlay appui-style-demo-container">
 
   <bbn-splitter orientation="horizontal">
     <bbn-pane size="25%;">

@@ -3,7 +3,7 @@
            :info="true"
            :filterable="true"
            :sortable="true"
-           :order="[{field: 'name', dir: 'ASC'}]"
+           :order="[{field: 'name', Dir: 'ASC'}]"
            :toolbar="[{
               text: '<?=_('Save')?>',
               action: save,

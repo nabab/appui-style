@@ -4,5 +4,5 @@
  *
  **/
 
-/** @var $this \bbn\mvc\controller */
-$ctrl->combo("Components importation", $ctrl->get_model('./appui_components'));
+/** @var $this \bbn\Mvc\Controller */
+$ctrl->combo("Components importation", $ctrl->getModel('./appui_components'));

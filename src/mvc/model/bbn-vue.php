@@ -4,11 +4,11 @@
  *
  **/
 
-/** @var $model \bbn\mvc\model*/
+/** @var $model \bbn\Mvc\Model*/
 if ( isset($model->data['structure']) ){
   $file = BBN_DATA_PATH.'bbn-vue.json';
   $data = $model->data['structure'];
-  file_put_contents($file, json_encode($data));
+  file_put_contents($file, Json_encode($data));
   return [
     'success' => 1,
   ];
@@ -19,7 +19,7 @@ else{
   
   $data = is_file($file) ? json_decode(file_get_contents($file), true) : [];
   foreach ( $components as $cp ){
-    $idx = \bbn\x::find($data, ['name' => $cp]);
+    $idx = \bbn\X::find($data, ['name' => $cp]);
     if ( $idx === null ){
       $data[] = [
         'name' => $cp,

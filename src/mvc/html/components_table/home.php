@@ -12,7 +12,7 @@
            :group-by="0"
            :sortable="true"
            :filterable="true"
-           :order="[{field: 'name', dir: 'ASC'}]"
+           :order="[{field: 'name', Dir: 'ASC'}]"
            class="bbn-green"
            @mouseOver="ciccio"
 >

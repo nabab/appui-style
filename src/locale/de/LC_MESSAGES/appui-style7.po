@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1\n"
+"Report-Msgid-Bugs-To: info@bbn.so\n"
+"last-Translator: BBN Solutions <support@bbn.solutions>\n"
+"Language-Team: DE <DE@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-02-15 01:10+0100\n"
+"POT-Revision-Date: 2021-02-15 01:10+0100\n"
+"Language: de\n"
+"X-Domain: appui-style\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-style/src/components/test/test.js
+msgid "Pref."
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-style/src/components/test/test.php
+msgid "testattt"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-style/src/components/test/test.php
+msgid "due"
+msgstr "dueee"
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-style/src/components/test/test.php
+msgid "uno"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-style/src/components/test/test.php
+msgid "tre"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-style/src/components/test/test.php
+msgid "quattro"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-style/src/components/test/test.php
+msgid "cinque"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-style/src/components/test/test.php
+msgid "testgattt"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-style/src/components/test/test.php
+msgid "duge"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-style/src/components/test/test.php
+msgid "ugno"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-style/src/components/test/test.php
+msgid "treg"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-style/src/components/test/test.php
+msgid "quagttro"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-style/src/components/test/test.php
+msgid "cignque"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-style/src/mvc/html/bbn-vue.php
+msgid "Save"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-style/src/mvc/html/bbn-vue.php
+msgid "Kendo free"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-style/src/mvc/html/bbn-vue.php
+msgid "State"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-style/src/mvc/html/bbn-vue.php
+msgid "Priority"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-style/src/mvc/html/bbn-vue.php
+msgid "Issues"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-style/src/mvc/js/bbn-vue.js
+msgid "Saved"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-style/src/mvc/js/bbn-vue.js
+msgid "Something went wrong"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-style/src/mvc/public/bbn-vue.php
+msgid "Components' state"
+msgstr ""
+
+#: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-style/src/mvc/public/fields.php
+msgid "Fields"
+msgstr ""

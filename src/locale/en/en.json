@@ -1,5 +1,5 @@
 {
-    "components\/test\/test": {
+    "components\/test": {
         "Pref.": "Pref."
     },
     "mvc\/bbn-vue": {

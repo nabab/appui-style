@@ -1,1 +1,9 @@
-{"":{"Pref.":"Pref.","Saved":"Saved","Something went wrong":"Something went wrong"}}
+{
+    "components\/test\/test": {
+        "Pref.": "Pref."
+    },
+    "mvc\/bbn-vue": {
+        "Saved": "Saved",
+        "Something went wrong": "Something went wrong"
+    }
+}

@@ -40,8 +40,8 @@
         if ( (n.indexOf('bbn-') === 0) ){
           bbn.fn.log("COMPONENTS", Vue.options.components['bbn-' + n]);
           columns.push({
-            field: n.substr(4),
-            title: n.substr(4).replace("-", " "),
+            field: n.substring(4),
+            title: n.substring(4).replace("-", " "),
           });
         }
       }
@@ -50,8 +50,8 @@
     mounted(){
       let d = [];
       bbn.fn.each(hooks, (a, i) => {
-        d.push({name: 'before' + a.substr(0, 1).toUpperCase() + a.substr(1), cat: 'hook'});
-        d.push({name: a + (a.substr(-1) === 'e' ? 'd' : 'ed'), cat: 'hook'});
+        d.push({name: 'before' + bbn.fn.substr(a, 0, 1).toUpperCase() + bbn.fn.substr(1), cat: 'hook'});
+        d.push({name: a + (bbn.fn.substr(-1) === 'e' ? 'd' : 'ed'), cat: 'hook'});
       });
       setTimeout(() => {
         bbn.fn.each(this.columns, (a, i) => {
@@ -152,7 +152,7 @@
           bbn.fn.log("COMPONENTS", Vue.options.components[n]);
           columns.push({
             field: n,
-            title: n.substr(4).replace("-", " "),
+            title: n.substring(4).replace("-", " "),
           });
           if ( Vue.options.components[n].options ){
             d.push({

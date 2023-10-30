@@ -2,7 +2,7 @@
 
 <bbn-button ref="button">text</bbn-button>
 
-<bbn-chart ref="chart"></bbn-chart>
+<bbn-chart ref="chart" :source="chartSource"></bbn-chart>
 
 <bbn-checkbox ref="checkbox"></bbn-checkbox>
 <!--

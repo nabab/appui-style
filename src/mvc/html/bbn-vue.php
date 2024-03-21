@@ -5,7 +5,7 @@
            :sortable="true"
            :order="[{field: 'name', dir: 'ASC'}]"
            :toolbar="[{
-              text: '<?=_('Save')?>',
+              text: '<?= _('Save') ?>',
               action: save,
               icon: 'nf nf-fa-save'
            }]"
@@ -18,7 +18,7 @@
   ></bbns-column>
 
   <bbns-column field="kendo"
-               title="<?=_('Kendo free')?>"
+               title="<?= _('Kendo free') ?>"
                width="95"
                type="boolean"
                :render="renderKendo"
@@ -29,7 +29,7 @@
   ></bbns-column>
   
   <bbns-column field="state"
-               title="<?=_('State')?>"
+               title="<?= _('State') ?>"
                cls="bbn-c"
                width="60"
                :render="renderState" 
@@ -37,14 +37,14 @@
   ></bbns-column>
 
   <bbns-column field="priority"
-               title="<?=_('Priority')?>"
+               title="<?= _('Priority') ?>"
                :source="priorities"
                cls="bbn-c bbn-b"
                width="60"
   ></bbns-column>
 
   <bbns-column field="issues"
-               title="<?=_('Issues')?>"
+               title="<?= _('Issues') ?>"
   ></bbns-column>
 
 </bbn-table>

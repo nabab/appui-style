@@ -14,7 +14,7 @@
            :filterable="true"
            :order="[{field: 'name', dir: 'ASC'}]"
            class="bbn-green"
-           @mouseOver="ciccio"
+           @mouseover="ciccio"
 >
 
 </bbn-table>

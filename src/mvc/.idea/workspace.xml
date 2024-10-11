@@ -88,7 +88,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../appui-notes/src/mvc/model/list.php" afterPath="$PROJECT_DIR$/../../../appui-notes/src/mvc/model/list.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../appui-notes/src/mvc/model/move.php" afterPath="$PROJECT_DIR$/../../../appui-notes/src/mvc/model/move.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../appui-notes/src/mvc/model/prove_notes.php" afterPath="$PROJECT_DIR$/../../../appui-notes/src/mvc/model/prove_notes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../appui-notes/src/mvc/public/_ctrl.php" afterPath="$PROJECT_DIR$/../../../appui-notes/src/mvc/public/_ctrl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../appui-notes/src/mvc/public/_super.php" afterPath="$PROJECT_DIR$/../../../appui-notes/src/mvc/public/_super.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../appui-notes/src/mvc/public/actions/insert.php" afterPath="$PROJECT_DIR$/../../../appui-notes/src/mvc/public/actions/insert.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../appui-notes/src/mvc/public/lazy_load.php" afterPath="$PROJECT_DIR$/../../../appui-notes/src/mvc/public/lazy_load.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../appui-notes/src/mvc/public/list.php" afterPath="$PROJECT_DIR$/../../../appui-notes/src/mvc/public/list.php" />
@@ -129,7 +129,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../appui-task/src/mvc/model/panel/logs.php" afterPath="$PROJECT_DIR$/../../../appui-task/src/mvc/model/panel/logs.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../appui-task/src/mvc/model/panel/search.php" afterPath="$PROJECT_DIR$/../../../appui-task/src/mvc/model/panel/search.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../appui-task/src/mvc/model/panel/tasks.php" afterPath="$PROJECT_DIR$/../../../appui-task/src/mvc/model/panel/tasks.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../appui-task/src/mvc/public/_ctrl.php" afterPath="$PROJECT_DIR$/../../../appui-task/src/mvc/public/_ctrl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../appui-task/src/mvc/public/_super.php" afterPath="$PROJECT_DIR$/../../../appui-task/src/mvc/public/_super.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../appui-task/src/mvc/public/actions/comment/insert.php" afterPath="$PROJECT_DIR$/../../../appui-task/src/mvc/public/actions/comment/insert.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../appui-task/src/mvc/public/actions/role/delete.php" afterPath="$PROJECT_DIR$/../../../appui-task/src/mvc/public/actions/role/delete.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../appui-task/src/mvc/public/actions/role/insert.php" afterPath="$PROJECT_DIR$/../../../appui-task/src/mvc/public/actions/role/insert.php" />
@@ -737,7 +737,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/_ctrl.php">
+    <entry file="file://$PROJECT_DIR$/public/_super.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
@@ -935,7 +935,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/_ctrl.php">
+    <entry file="file://$PROJECT_DIR$/public/_super.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="44" lean-forward="true" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />

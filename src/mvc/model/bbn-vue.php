@@ -4,7 +4,7 @@
  *
  **/
 
-/** @var $model \bbn\Mvc\Model*/
+/** @var bbn\Mvc\Model $model */
 if ( isset($model->data['structure']) ){
   $file = BBN_DATA_PATH.'bbn-vue.json';
   $data = $model->data['structure'];

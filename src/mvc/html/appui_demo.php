@@ -35,7 +35,7 @@
                     <p v-if="standard_text" v-text="standard_text"></p>
                     <a :name="'bbn-' + c"></a>
 
-                    <div class="bbn-lpadded">
+                    <div class="bbn-lpadding">
                       <h3 class="bbn-c" v-text="'bbn-' + c"></h3>
                       <div v-if="!text && !font_size && !width && !height && !heightWidth && !hide && !font_size" class="bbn-form-full">
                         <code v-text="'<div class=\'bbn-'+c +codeText+ '\'></div>'"></code>

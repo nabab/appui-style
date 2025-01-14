@@ -41,7 +41,7 @@
           bbn.fn.log("COMPONENTS", Vue.options.components['bbn-' + n]);
           columns.push({
             field: n.substring(4),
-            title: n.substring(4).replace("-", " "),
+            label: n.substring(4).replace("-", " "),
           });
         }
       }
@@ -135,11 +135,11 @@
         });
         this.columns.unshift({
           field:"cat",
-          title:"cat",
+          label:"cat",
           fixed: true
         }, {
           field:"name",
-          title:"name",
+          label:"name",
           fixed: true
         });
         this.data = d;
@@ -152,7 +152,7 @@
           bbn.fn.log("COMPONENTS", Vue.options.components[n]);
           columns.push({
             field: n,
-            title: n.substring(4).replace("-", " "),
+            label: n.substring(4).replace("-", " "),
           });
           if ( Vue.options.components[n].options ){
             d.push({

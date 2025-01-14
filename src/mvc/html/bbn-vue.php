@@ -12,13 +12,13 @@
            
 >
    <bbns-column field="name"
-                title="<?_('Name')?>"
+                label="<?_('Name')?>"
                 :editable="false"
                 width="130"
   ></bbns-column>
 
   <bbns-column field="kendo"
-               title="<?= _('Kendo free') ?>"
+               label="<?= _('Kendo free') ?>"
                width="95"
                type="boolean"
                :render="renderKendo"
@@ -29,7 +29,7 @@
   ></bbns-column>
   
   <bbns-column field="state"
-               title="<?= _('State') ?>"
+               label="<?= _('State') ?>"
                cls="bbn-c"
                width="60"
                :render="renderState" 
@@ -37,14 +37,14 @@
   ></bbns-column>
 
   <bbns-column field="priority"
-               title="<?= _('Priority') ?>"
+               label="<?= _('Priority') ?>"
                :source="priorities"
                cls="bbn-c bbn-b"
                width="60"
   ></bbns-column>
 
   <bbns-column field="issues"
-               title="<?= _('Issues') ?>"
+               label="<?= _('Issues') ?>"
   ></bbns-column>
 
 </bbn-table>

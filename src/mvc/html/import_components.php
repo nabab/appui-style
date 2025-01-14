@@ -10,7 +10,7 @@
 >
 
   <bbns-column field="componentName"
-              title="Component"
+              label="Component"
               :width="250"
               :fixed="true"
   ></bbns-column>

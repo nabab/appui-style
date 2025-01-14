@@ -123,7 +123,7 @@
           bbn.fn.each(this.props, (c, i) => {
             cols.push({
               field: c,
-              title: c,
+              label: c,
               render: (data) => {
                 return this.renderCol(data[c])
               },
